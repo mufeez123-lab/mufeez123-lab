@@ -39,6 +39,6 @@ Currently based in **Mangaluru**, I'm pursuing my studies at **Bearys Institute 
 ## Connect with Me
 
 - *Email*: [mufizmalar@gmail.com](mailto:mufizmalar@gmail.com)
-- *Phone*: +91 6362514956
+- *Phone*: +916362514956
 - *LinkedIn*: [Mahammad Mufeez](https://www.linkedin.com/in/mahammad-mufeez/) (Visit my LinkedIn profile)
 - *Instagram*: [mufeez\\\z](https://www.instagram.com/mufeez_z/?next=%2F) _(Follow me on Instagram)
