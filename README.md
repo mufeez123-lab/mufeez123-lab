@@ -4,8 +4,7 @@
 ![MERN Stack](https://github.com/mufeez123-lab/bannerag/raw/main/bannerforgit.gif)
 
 
-I'm **Mahammad Mufeez**, a passionate **Web Developer** who loves crafting beautiful and functional web applications. My journey in web development is fueled by curiosity and creativity!
-
+Welcome to my GitHub profile! I am a passionate **Full Stack Developer** specializing in the **MERN stack** with a strong foundation in **HTML**, **CSS**, **JavaScript**, and **Python**. My focus is on building innovative projects and advancing my skills in full-stack development.
 ## About Me
 
 Currently based in **Mangaluru**, I'm pursuing my studies at **Bearys Institute Of Technology**. I enjoy learning new technologies and applying them to solve real-world problems. I'm on a mission to create impactful web solutions that enhance user experiences.
