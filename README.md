@@ -1,7 +1,7 @@
 ## Hi there! 👋 
 
 
-![MERN Stack](https://github.com/mufeez123-lab/bannerag/raw/main/bannerforgit.gif)
+![MERN Stack](https://github.com/mufeez123-lab/bannerag/blob/main/11.gif)
 
 
 Welcome to my GitHub profile! I am a passionate **Full Stack Developer** specializing in the **MERN stack** with a strong foundation in **HTML**, **CSS**, **JavaScript**, and **Python**. My focus is on building innovative projects and advancing my skills in full-stack development.
