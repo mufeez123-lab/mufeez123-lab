@@ -1,69 +1,42 @@
-# 💻 Mahammad Mufeez
+## Hi there! 👋 
+
 
 ![MERN Stack](https://github.com/mufeez123-lab/bannerag/raw/main/bannerforgit.gif)
 
 
-Welcome to my GitHub profile! I am a passionate **Full Stack Developer** specializing in the **MERN stack** with a strong foundation in **HTML**, **CSS**, **JavaScript**, and **Python**. My focus is on building innovative projects and advancing my skills in full-stack development.
+I'm **Mahammad Mufeez**, a passionate **Web Developer** who loves crafting beautiful and functional web applications. My journey in web development is fueled by curiosity and creativity!
 
----
+## About Me
 
-## 🏆 About Me
+Currently based in **Mangaluru**, I'm pursuing my studies at **Bearys Institute Of Technology**. I enjoy learning new technologies and applying them to solve real-world problems. I'm on a mission to create impactful web solutions that enhance user experiences.
 
-- 🎓 **Education**: Pursuing B.E. in Computer Science and Engineering at **BIT Mangalore**.
-- 🔧 **Tech Skills**: MERN Stack, Python Django, React.js, UI/UX basics.
-- 🚀 **Career Goals**: Aspiring to become a senior developer or technical lead.
-- 🌍 **Languages**: English, Hindi, Kannada, Malayalam.
+## Skills & Technologies
 
----
+[![My Skills](https://skillicons.dev/icons?i=react,mongodb,nodejs,express,nextjs,postman,py,java,js,html,css&perline=8)](https://skillicons.dev)
 
-## 🌟 Projects
+## Top Projects
 
-### **Smart Attendance System**
 
-A real-time face recognition-based attendance system built using:
 
-- **Frontend**: React.js
-- **Backend**: Express.js, Python Django
-- **Database**: MongoDB
-- **Features**: Classroom creation, student management, webcam-based face recognition for attendance tracking.
 
-### **Portfolio Website**
 
-Created a personal portfolio website using **React.js** to showcase my projects and skills.
-
-### **Attendance Management System**
-
-Developed a login, authentication, and authorization system in a MERN stack project within a short timeframe.
-
----
-
-## 🌐 Experience
-
-- **Full Stack Development Intern** at **Cognifyz Technologies** (Aug 2024 - Sep 2024)
-- **MERN Stack Intern** at **Codelab Systems**
-
----
-
-## 🌟 GitHub Stats
+## GitHub Stats
+🔭 **Public Repositories**: 5  
+👥 **Followers**: 0  
+👤 **Following**: 0  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mufeez123-lab&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mufeez123-lab&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mufeez123-lab&layout=compact&theme=radical)
+## Recent Activity
 
----
+- Pushed updates to **Login Systems** repository on **November 25, 2024**.
+- Started watching **Personal Portfolio Website** on **January 8, 2025**.
+- Created a new repository **regbcr** on **November 15, 2024**.
+- Created a new repository **Personal-Portfolio-website** on **November 11, 2024**.
+- Created a new repository **Login-System** on **November 11, 2024**.
 
-## 🛠️ Tools & Technologies
-
-- **Frontend**: ![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white), ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-- **Backend**: ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white), ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white), ![Python Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-- **Database**: ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-- **Version Control**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white), ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-- **Other Tools**: ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-
----
-
-## 💼 Contact Me
-
+## Connect with Me
 - **Email**: [mufizmalar@gmail.com](mailto:mufizmalar@gmail.com)
 - **Phone**: +91 6362514956
 - **LinkedIn**: [Mahammad Mufeez](https://www.linkedin.com/in/mahammad-mufeez/) _(Visit my LinkedIn profile)_
