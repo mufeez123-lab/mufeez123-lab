@@ -4,7 +4,7 @@
 
 
 
-I'm **Mahammad Mufeez**, a passionate **Web Developer** who loves crafting beautiful and functional web applications. My journey in web development is fueled by curiosity and creativity!
+Welcome to my GitHub profile! I am a passionate **Full Stack Developer** specializing in the **MERN stack** with a strong foundation in **HTML**, **CSS**, **JavaScript**, and **Python**. My focus is on building innovative projects and advancing my skills in full-stack development.
 
 ## About Me
 
